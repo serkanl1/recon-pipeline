@@ -1,0 +1,2 @@
+# Intentionally minimal local Subfinder configuration.
+# Optional provider API keys belong in a separate file referenced from .env.
